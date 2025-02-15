@@ -41,7 +41,7 @@ O projeto consiste em:
 - `npWrite()`: Envia os dados do buffer para os LEDs, atualizando suas cores.
 
 ### Lógica dos Botões
-- **Botão A**: Quando pressionado, exibe um padrão de cores vermelho na matriz de LEDs.
+- **Botão A**: Quando pressionado, exibe um padrão de cores azul na matriz de LEDs.
 - **Botão B**: Quando pressionado, exibe um padrão de cores verde na matriz de LEDs.
 - **Ambos os Botões**: Quando ambos os botões são pressionados simultaneamente, a matriz de LEDs é limpa (todos os LEDs são apagados).
 
@@ -75,7 +75,7 @@ O projeto consiste em:
 ## Explicação dos Padrões de Cores
 
 ### Padrão do Botão A
-- Um padrão de "X" vermelho é exibido na matriz de LEDs.
+- Um padrão de "X" azul é exibido na matriz de LEDs.
 - As cores são definidas pela matriz `matriz[5][5][3]`.
 
 ### Padrão do Botão B
