@@ -86,7 +86,7 @@ O projeto consiste em:
 
 Confira o vídeo abaixo para ver o projeto em funcionamento:
 
-[![Assista ao vídeo](https://img.youtube.com/vi/SEU_ID_DO_VIDEO/0.jpg)](https://www.youtube.com/watch?v=SEU_ID_DO_VIDEO)
+[![Assista ao vídeo](https://youtu.be/OpmRPl6gOmk)
 
 ---
 
