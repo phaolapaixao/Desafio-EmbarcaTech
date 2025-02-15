@@ -43,7 +43,7 @@ O projeto consiste em:
 ### Lógica dos Botões
 - **Botão A**: Quando pressionado, exibe um padrão de cores azul na matriz de LEDs.
 - **Botão B**: Quando pressionado, exibe um padrão de cores verde na matriz de LEDs.
-- **Ambos os Botões**: Quando ambos os botões são pressionados simultaneamente, a matriz de LEDs é limpa (todos os LEDs são apagados).
+- **Ambos os Botões**: Quando ambos os botões são pressionados simultaneamente, a matriz de LEDs é mostrada de forma síncrona.
 
 ### Função de Mapeamento
 - `getIndex(int x, int y)`: Converte coordenadas (x, y) da matriz 5x5 para o índice correspondente no vetor de LEDs, considerando o padrão de fiação da matriz (zig-zag).
