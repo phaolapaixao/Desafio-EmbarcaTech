@@ -82,6 +82,12 @@ O projeto consiste em:
 - Um padrão de "T" verde é exibido na matriz de LEDs.
 - As cores são definidas pela matriz `matriz2[5][5][3]`.
 
+- ## Demonstração do Projeto
+
+Confira o vídeo abaixo para ver o projeto em funcionamento:
+
+[![Assista ao vídeo](https://img.youtube.com/vi/SEU_ID_DO_VIDEO/0.jpg)](https://www.youtube.com/watch?v=SEU_ID_DO_VIDEO)
+
 ---
 
 ## Considerações Finais
